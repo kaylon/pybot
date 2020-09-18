@@ -1,0 +1,13 @@
+
+
+# ras pies
+
+
+raspberries:
+  children:
+    bots:
+      hosts:
+        rover-1:
+          # partner management
+          ansible_host: rover-1.local
+          ansible_user: pi

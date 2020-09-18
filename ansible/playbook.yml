@@ -1,0 +1,7 @@
+
+- name: All pies
+  hosts: raspberries
+  become: yes
+  roles:
+    - role: base
+    - role: unattended-upgrades

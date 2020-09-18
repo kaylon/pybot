@@ -1,0 +1,10 @@
+#foo
+
+
+hostname: display-default
+
+display_rotate: 0
+# 0 is the normal configuration. 1 is 90 degrees. 2 is 180 degress. 3 is 270 degrees.
+
+# ... secure
+password: $1$213kz4$IvYczxlhgH/HmbdSbd9Ob/

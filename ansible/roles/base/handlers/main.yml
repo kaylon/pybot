@@ -1,0 +1,6 @@
+
+
+
+ - name: reboot
+   command: /sbin/reboot
+   become: yes
